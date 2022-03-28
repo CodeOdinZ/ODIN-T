@@ -1,10 +1,35 @@
-div {
-
-    color:blueviolet;
+body 
+{
     
+    background-color: rgb(18, 18, 95) ;
+    background-image: url(../Images/sky.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
 
+    
+}
 
+div{
 
+    height: 10vh;
 
 
 }
+
+
+
+h1
+{
+    color: rgb(236, 100, 9);
+    font-family: 'popins',sans-serif;
+    display: flex;
+    justify-content: center;
+
+}
+
+h3{
+
+    color: rgb(212, 212, 212);
+
+}
+
